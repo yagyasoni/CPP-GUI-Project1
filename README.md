@@ -1,7 +1,7 @@
 # CPP-GUI-Project1
  
 -> Created a very simple Hello Name form.
-  
+# Type your name to print.  
 ![Screenshot (639)](https://user-images.githubusercontent.com/87273902/158232031-9ae70dc7-3dff-4a19-9964-25bc0b0953c7.png)
 
 # Press 'OK' button to print Hello Name.
