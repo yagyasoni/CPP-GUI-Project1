@@ -1,10 +1,10 @@
 # CPP-GUI-Project1
  
--> Created a very simple Hello <Your Name> form.
+-> Created a very simple Hello Name form.
   
 ![Screenshot (639)](https://user-images.githubusercontent.com/87273902/158232031-9ae70dc7-3dff-4a19-9964-25bc0b0953c7.png)
 
-# Press 'OK' button to print Hello <Your Name>.
+# Press 'OK' button to print Hello Name.
 ![Screenshot (640)](https://user-images.githubusercontent.com/87273902/158232097-8a681fee-3507-41ce-a425-0ad5d3c38d1f.png)
 
 # Press 'Clear' to remove.
